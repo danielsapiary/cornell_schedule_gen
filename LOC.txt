@@ -1,0 +1,15 @@
+To our wonderful PG
+
+Here is the command you want to use to measure the size of our project: 
+cloc --exclude-dir=frontend --include-lang=OCaml .
+
+This excludes the frontend code written exclusively in ReactJS, and only counts the OCaml LOC.
+Note that the original command that we were given would also accurately count the
+LOC but it will take much longer as it will search through all the files in the 
+frontend
+
+
+Alternatively, you can the following command before you use cloc:
+rm -r frontend/node_modules
+
+This way, cloc won't take forever to run

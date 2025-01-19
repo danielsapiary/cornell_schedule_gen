@@ -1,0 +1,11 @@
+[
+  {
+    "title": "CS 3110",
+    "lecture_name": "1",
+    "lecture": [ { "start": 800, "end": 900 } ],
+    "discussion_name": "2",
+    "discussion": [ { "start": 1000, "end": 1100 } ],
+    "lab_name": "3",
+    "lab": [ { "start": 1200, "end": 1300 } ]
+  }
+]

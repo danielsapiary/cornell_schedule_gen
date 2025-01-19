@@ -1,0 +1,21 @@
+[
+    {
+      "title": "ENTOM 2030",
+      "lecture_name": "C",
+      "lecture": [ { "start": 1000, "end": 1100 } ],
+      "discussion_name": null,
+      "discussion": null,
+      "lab_name": null,
+      "lab": null
+    },
+    {
+      "title": "CS 3110",
+      "lecture_name": "B",
+      "lecture": [ { "start": 800, "end": 900 } ],
+      "discussion_name": null,
+      "discussion": null,
+      "lab_name": null,
+      "lab": null
+    }
+  ]
+  

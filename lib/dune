@@ -1,0 +1,7 @@
+(library
+ (name reverse_course_registration)
+ (public_name reverse_course_registration)
+ (modules :standard)
+ (libraries ounit2 yojson curl csv)
+ (instrumentation
+  (backend bisect_ppx)))

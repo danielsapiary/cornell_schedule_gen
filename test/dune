@@ -1,0 +1,4 @@
+(tests
+ (names test_schedule test_course test_roster)
+ (libraries ounit2 csv reverse_course_registration)
+ (deps (glob_files_rec ../data/*)))

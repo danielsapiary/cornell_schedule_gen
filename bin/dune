@@ -1,0 +1,4 @@
+(executable
+ (public_name reverse_course_registration)
+ (name main)
+ (libraries reverse_course_registration lwt lwt.unix yojson cohttp-lwt-unix csv))

@@ -1,0 +1,28 @@
+---
+# Members of your group.
+group:
+  - name: David Heimowitz
+    netid: drh256
+  - name: Daniel Sorokin
+    netid: dhs263
+  - name: Sanitago Palacios
+    netid: stp56
+  - name: Aaron Harnish
+    netid: ajh374
+# Your PM.
+pm:
+  name: Yuki Suwabe
+  netid: ys462
+publish: true
+# Pithy title
+title: "Reverse Course Registration"
+git-repo: "https://github.coecis.cornell.edu/drh256/reverse_course_registration"
+# Replace the URL with your own demo video.
+demo-video-url: "https://youtu.be/TAk2_kyH8XU"
+# Write a short, attention-grabbing description of your project.
+desc: >
+This project is a program to help students determine and evaluate potential schedules for a semester. 
+Given classes that a student would want to take, and their time availability,
+ the program would return all possible schedules if any exist.
+It is designed to be a tool to be used to simplify choosing classes and pre-enroll.
+ This program is designed to be used by students at Cornell University, and is accessed by a web interface.
