@@ -1,5 +1,5 @@
 # cornell_schedule_gen
-Final Project for CS3110
+This is a copy of the contents in the Cornell Enterprise Repository for a Final Project for CS3110
 
 NetIDs:
 Daniel Sorokin (dhs263)
@@ -15,6 +15,6 @@ discussion sections, and AEWs), the program returns all possible schedules sorte
 Please check our INSTALL.md for instructions on how to get RCR working on your system! Requires that you have node installed. 
 
 Examples:
-<img width="1639" alt="Screenshot 2024-12-11 at 1 08 30 PM" src="https://github.coecis.cornell.edu/drh256/cornell_schedule_gen/assets/18411/7dd32b04-2c40-4601-ad1c-738ee2d686bc">
+<img width="1639" alt="Screenshot 2024-12-11 at 1 08 30 PM" src="https://github.com/user-attachments/assets/ca76412f-3f4d-46ce-aa58-81e671d723f9">
 
-<img width="1693" alt="Screenshot 2024-12-11 at 1 02 30 PM" src="https://github.coecis.cornell.edu/drh256/cornell_schedule_gen/assets/18411/950956d5-2526-49d5-bb77-8769c195ec12">
+<img width="1693" alt="Screenshot 2024-12-11 at 1 02 30 PM" src="https://github.com/user-attachments/assets/2070bbf9-4424-40e6-8779-5db7a91b9cde">
